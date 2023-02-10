@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **manuelgsil/manuelgsil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-                  ![logo](https://user-images.githubusercontent.com/118306123/218121731-994cefa1-eec3-4124-8916-481e42704891.png)
+                  ![logo]
 
-# HOLA
 
