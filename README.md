@@ -1,7 +1,3 @@
-# HOLAl
-
-
-
-         ![logo]!(https://user-images.githubusercontent.com/118306123/218125296-66192b49-38b5-49d5-822d-6b7fec39bcf8.png)
-
+### Hi there!
+![logo](https://github.com/manuelgsil/manuelgsil/blob/d0ed2586fc1dc4472ed6c28e3da3974b6dd08b1e/logo.png)
 
