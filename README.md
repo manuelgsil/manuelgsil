@@ -1,3 +1,8 @@
+<p align="center">
+<img src="https://user-images.githubusercontent.com/118306123/271249034-f858733c-a470-4dd5-82c6-cc95bde29486.png" width="500" height="500" />
+</p>
+
+
 # 💫 About Me:
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=300&color=2443F7&background=02040600&vCenter=true&width=435&lines=Hi+there!+;I'm+Manuel%2C+second-year+DAW+student)](https://git.io/typing-svg)
 
