@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudiante de DAW
+    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=30&color=3DC7F7&background=02040600&center=true&vCenter=true&width=435&lines=Hi+there!+;I'm+Manuel%2C+second-year+DAW+student)](https://git.io/typing-svg)
 
 
 ## 🌐 Socials:
